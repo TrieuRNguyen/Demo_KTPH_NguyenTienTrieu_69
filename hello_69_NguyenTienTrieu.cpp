@@ -1,9 +1,3 @@
-<<<<<<<<<<<test
-==========
-
-<<<<<<<<<<main
-
-
 // C++ program to display "Hello World"
 
 // header file for input output functions
@@ -17,10 +11,6 @@ int main()
 	//Prints hello world
 	cout<<"Hello World";
 	cout<<"Thay Doi Tren Branch test" << endl;
-	<<<<<<<<<<<test
-	==========
-
 	cout<<"Thay Doi Tren Branch main" << endl;
-	<<<<<<<<<<main
     return 0;
 }
